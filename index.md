@@ -1,6 +1,6 @@
-## Zachary Kirkeby's First CS193 Homework
+# Zachary Kirkeby's First CS193 Homework
 
-### My Favorite Things about CS193
+## My Favorite Things about CS193
 - Linux command reviews
 - we do stuff
 - github
